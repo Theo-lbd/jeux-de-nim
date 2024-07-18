@@ -4,3 +4,5 @@
 """
 Jeux de Nim (variante simple et de Marienbad)
 """
+
+print("jeux de nim")
